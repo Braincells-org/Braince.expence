@@ -1,4 +1,4 @@
-# 💸 Expense Tracker v1.5
+# 💸 Expense Tracker v1.7
 
 A simple terminal-based Expense Tracker built using Python. It helps users manage their budget by recording income and expenses, tracking transactions, editing or deleting history, and monitoring their remaining balance.
 
