@@ -1,0 +1,5 @@
+# Braince Expense v1.7
+# No external dependencies required.
+# Built using Python standard library only.
+colorama==0.4.6
+rich==14.0.0
