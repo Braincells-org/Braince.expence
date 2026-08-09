@@ -47,7 +47,7 @@ Expense-Tracker/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shivamumrao2022-jpg/expense-tracker.git
+git clone https://github.com/Braincells-org/Braince.expence.git
 ```
 
 ### 2. Open the project folder
