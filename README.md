@@ -98,7 +98,7 @@ Remaining Balance: 4750
 - 🎨 GUI Version
 - 🌐 Web Version
 - 📱 Android App
-
+- 💻 Dev version 2.0
 ---
 
 # 👨‍💻 Creator
