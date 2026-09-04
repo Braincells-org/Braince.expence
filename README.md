@@ -91,7 +91,6 @@ Remaining Balance: 4750
 # 🚀 Future Improvements
 
 - 🗄️ SQLite Database Support
-- 📊 Monthly Expense Charts
 - 📅 Date & Time for Transactions
 - 🔍 Search Transactions
 - 📤 Export to CSV/PDF
